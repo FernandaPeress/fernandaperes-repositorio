@@ -70,12 +70,19 @@ Sou interessada na área de tecnologia e busco constantemente aprender e desenvo
     <li>
         <strong>Ensino Médio Integrado ao Curso Técnico em Alimentos</strong><br>
         Instituto Federal de Brasília (IFB) – Campus Gama<br>
-        Conclusão: 2025
+        Conclusão: 2025<br>
     </li>
     <li>
         <strong>Graduação em Engenharia de Software</strong><br>
-        Cursando o 1º período
+        Centro Universitário de Brasília (CEUB)<br>
+        Cursando o 2º período<br>
     </li>
+       <li>
+       <strong>Graduação em Administração</strong><br>
+        Universidade de Brasília (UnB)<br> 
+        Cursando o 1º período<br>
+
+
 </ul>
 
 <h3>Experiências Acadêmicas e Profissionais</h3>
