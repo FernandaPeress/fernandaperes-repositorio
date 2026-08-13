@@ -137,7 +137,4 @@ Sou interessada na área de tecnologia e busco constantemente aprender e desenvo
         <li>Interesse por desenvolvimento acadêmico e profissional</li>
     </ul>
 
-  <p><strong>Slides de habilidades:</strong></p>
-<a href="https://canva.link/7v2iwz19pe966sj" target="_blank">Ver apresentação</a>
-</section>
 
