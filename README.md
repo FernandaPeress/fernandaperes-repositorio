@@ -39,9 +39,33 @@ Sou interessada na área de tecnologia e busco constantemente aprender e desenvo
     </a>
 </p>
 
----
 <section>
-
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+    <br>
+<section>
    <h3>Formação Acadêmica</h3>
     <li>
         <strong>Ensino Médio Integrado ao Curso Técnico em Alimentos</strong><br>
@@ -97,7 +121,7 @@ Sou interessada na área de tecnologia e busco constantemente aprender e desenvo
 </section>
 
 <section>
-    <h2>🧠 Habilidades e Competências</h2>
+    <h2> Habilidades e Competências</h2>
     <ul>
         <li>Facilidade de aprendizagem</li>
         <li>Pensamento crítico</li>
@@ -110,27 +134,3 @@ Sou interessada na área de tecnologia e busco constantemente aprender e desenvo
 <a href="https://canva.link/7v2iwz19pe966sj" target="_blank">Ver apresentação</a>
 </section>
 
-<section>
-    <h2>💬 Recomendações e Testemunhos</h2>
-
-   <p>
-    <strong>Cleber – Orientador do projeto “O Culto ao Corpo”</strong><br>
-    Fernanda demonstrou excelente comprometimento e dedicação durante o desenvolvimento do projeto,
-    apresentando organização, responsabilidade e pensamento crítico ao longo de todas as etapas.
-</p>
-
-<p>
-    <strong>Guilherme – Professor de Empreendedorismo</strong><br>
-    Fernanda se destacou pela sua proatividade, capacidade de trabalho em equipe e criatividade
-    na construção de ideias, demonstrando grande potencial para o desenvolvimento profissional.
-</p>
-</section>
-
-<section>
-    <h2>Outros</h2>
-    <ul>
-        <li>Participação em eventos acadêmicos e científicos</li>
-        <li>Interesse nas áreas de tecnologia e saúde</li>
-        <li>Interesse por inovação e aprendizado contínuo</li>
-    </ul>
-</section>
