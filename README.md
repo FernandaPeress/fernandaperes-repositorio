@@ -127,14 +127,5 @@ Sou interessada na área de tecnologia e busco constantemente aprender e desenvo
 </ul>
 </section>
 
-<section>
-    <h2> Habilidades e Competências</h2>
-    <ul>
-        <li>Facilidade de aprendizagem</li>
-        <li>Pensamento crítico</li>
-        <li>Comprometimento com resultados</li>
-        <li>Capacidade de adaptação</li>
-        <li>Interesse por desenvolvimento acadêmico e profissional</li>
-    </ul>
 
 
