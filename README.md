@@ -110,7 +110,7 @@ Sou interessada na área de tecnologia e busco constantemente aprender e desenvo
 </section>
 
 <section>
-    <h2>🚀 Projetos Acadêmicos e Profissionais</h2>
+    <h2>Projetos Acadêmicos e Profissionais</h2>
 
 <h3>O Culto ao Corpo: a saúde como novo símbolo de status</h3>
 
