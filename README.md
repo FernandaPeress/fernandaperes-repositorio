@@ -2,8 +2,10 @@
 
 **Estudante de Engenharia - PortifólioHUB - trabalho Bootcamp**
 
-Me chamo Fernanda Peres Rezende, tenho 19 anos e sou natural do Brasil. Concluí o ensino médio pelo Instituto Federal de Brasília (IFB), campus Gama, com formação técnica em Alimentos. Atualmente, estou cursando Engenharia de Software.
-Sou interessada na área de tecnologia e busco constantemente aprender e desenvolver minhas habilidades acadêmicas e profissionais. E também através do Instagram, com o perfil chamado "[_nandaperes](https://www.instagram.com/_nandaperes)"
+My name is Fernanda Peres Rezende, I am 19 years old, and I am from Brazil. I completed my high school education at the Federal Institute of Brasília (IFB), Gama campus, where I earned a technical qualification in Food Technology. I am currently pursuing a degree in Software Engineering.
+
+I am interested in technology and constantly seek to learn and develop my academic and professional skills. I also share my experiences and interests on Instagram through my profile, "[_nandaperes](https://www.instagram.com/_nandaperes)"
+
 
 📧 Email: nandaperes326@gmail.com  
 
